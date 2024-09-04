@@ -1,21 +1,15 @@
 # Personal-Budget-Tracker
 
-## Features:
-Add Income and Expenses:
+A simple web-based application for tracking personal income and expenses.
 
-Users can input details about their income and expenses.
-Each entry includes the amount, category, and date.
-View Summary:
+## Features
 
-Users can see a summary of their income, expenses, and remaining balance.
-Categories (like food, entertainment, etc.) can be summarized to show spending patterns.
-Charts and Graphs:
+- Add income and expense transactions.
+- View a summary of total income, expenses, and balance.
+- Visual representation of financial data (basic functionality included).
 
-Display visual representations of spending, such as pie charts for expense categories and line charts for income vs. expenses over time.
-Filter and Search:
+## Technologies Used
 
-Users can filter transactions by date range or category.
-A search function to find specific transactions.
-Save and Load Data:
-
-Users can save their financial data and load it later.
+- HTML
+- CSS3
+- JavaScript
